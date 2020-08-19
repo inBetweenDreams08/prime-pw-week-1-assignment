@@ -1,11 +1,36 @@
+#pic{
+    width: 17%;
+    height: auto;
+    border: 5px solid #7fff00;
+}
+
+
+
 /* Give your page a fun background color */
+body{
+  font-family: 'Roboto Slab', serif;
+  background-color: #a6e7ff
 
+}
 /* Make the header and footer a different color from the background */
-
+header{
+  background: #f8f8ff
+}
+footer{
+  background-color: #f8f4ff
+}
 /* Align the h1 containing your name in the center of the header*/
+h1 {
+  text-align:center;
+}
 
 /* Make your p tag a different color and italic */
+p{
+  font-style: italic;
+  color: #ff8c00
+}
 
 /* Put a border around your image */
-
+For this part it will be in the tag #pic
 /* Change the font-family of your list */
+This part will be in the body tag.
