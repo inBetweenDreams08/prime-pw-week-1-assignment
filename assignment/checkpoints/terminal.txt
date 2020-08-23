@@ -18,15 +18,12 @@
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
     If you use ls in an empty folder it will not list anything in the folder. Compared to a folder with files inside; which will list the files./names.
+
 # 6 - What is a quick way to create a new file?
     Use the command "touch"
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-    git [--version] [--help] [-C <path>] [-c <name>=<value>]
-    [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-    [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-    [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-    <command> [<args>]
+    
 
 # 8 - Why would you run the command 'git status'?
     To see the status of a folder, I would use git_status. The purpose of this command is to allow the individual to see files that are currently
