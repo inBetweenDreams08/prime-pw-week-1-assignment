@@ -23,14 +23,14 @@
     Use the command "touch"
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-    
+    git version 2.20.1 (Apple Git-117)
 
 # 8 - Why would you run the command 'git status'?
     To see the status of a folder, I would use git_status. The purpose of this command is to allow the individual to see files that are currently
     not being tracked by Git, as well as any new or changed files.
 
 # 9 - What does the command 'git add .' do?
-    The git add . command adds new or changed files in your working directory to the Git staging area. this add’s everything to a snapshot via git.
+    The git add . command adds new or changed files in your working directory to the Git staging area. This add’s everything to a snapshot via git.
     This is called staging a commit. -- we have to tell git which files we want to be part of this commit.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
